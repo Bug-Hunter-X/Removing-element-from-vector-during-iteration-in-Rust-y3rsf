@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Rust when removing elements from a vector while iterating using an index. The `bug.rs` file contains the buggy code, which may lead to unexpected behavior or a runtime panic due to index out of bounds issues.  The `bugSolution.rs` file provides a correct and efficient solution.
